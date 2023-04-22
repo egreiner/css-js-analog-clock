@@ -1,6 +1,6 @@
-# css-js-analog-clock
+# css-js-analog-clock  
 
-An analog clock using CSS and JavaScript
+An analog clock using CSS and JavaScript  
 
-according to this video
+according to this video  
 https://www.youtube.com/watch?v=Ki0XXrlKlHY
